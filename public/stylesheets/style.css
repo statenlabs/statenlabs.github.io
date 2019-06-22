@@ -74,14 +74,12 @@ header {
 
 .nav-brand {
     padding-left: 50px;
-    padding-top: 4px;
+    padding-top: 19px;
     padding-bottom: 0px;
 }
 
 .nav-brand img {
     height: 50px;
-    padding-top: 15px;
-    padding-bottom: 15px;
 }
 
 .cover {
