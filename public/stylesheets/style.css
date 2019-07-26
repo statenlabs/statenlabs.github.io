@@ -84,7 +84,7 @@ header {
 
 .cover {
     height: 500px;
-    background: darkturquoise;
+    background: #A20025;
 }
 
 .cover h1{
@@ -123,8 +123,7 @@ footer{
     }
 
     .nav-links a:hover {
-        background: darkturquoise;
-        color: #fff;
+        background: whitesmoke;
     }
 
     section {
